@@ -1,4 +1,4 @@
-vendor
+# vendor
 examples/resume/_*.md
 examples/output/*.html
 examples/output/*.pdf
